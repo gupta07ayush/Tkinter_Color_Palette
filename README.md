@@ -1,3 +1,5 @@
+### Tkinter color palette
+
 Python provides many options for Graphical user interface development. Tkinter is the most commonly used option apart from all other available alternatives.
 
 ### The steps involved in developing a basic tkinter app are:
