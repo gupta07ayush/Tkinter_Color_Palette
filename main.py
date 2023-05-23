@@ -14,6 +14,8 @@ def choose_color():
     # variable to store hexadecimal code of color
     color_code = colorchooser.askcolor(title="Choose your favorite color")
     print(color_code)
+    for i in color_code:
+        print(i)
 
 
 root = Tk()
