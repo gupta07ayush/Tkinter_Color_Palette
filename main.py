@@ -20,5 +20,8 @@ root = Tk()
 root.title('Tkinter Color Palette')
 root.geometry("500x500")
 
+select_color_button = Button(root, text='Select color', command=choose_color)
+select_color_button.pack()
+
 # start the GUI loop
 root.mainloop()
